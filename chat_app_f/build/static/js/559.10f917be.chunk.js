@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkchat=self.webpackChunkchat||[]).push([[559],{44559:function(e,n,t){t.r(n);t(47313);var c=t(46417);n.default=function(){return(0,c.jsx)(c.Fragment,{children:"404"})}}}]);

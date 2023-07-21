@@ -1,0 +1,7 @@
+{
+  "env": {
+    "DEV_EMAIL": "qkrdns00@gmail.com",
+    "ZEGO_APP_ID": 922884137,
+    "ZEGO_SERVER_SECRET": "5e983b64550207824205ee1c7e8c1df1"
+  }
+}
